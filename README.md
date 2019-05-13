@@ -1,15 +1,18 @@
 # scoped_model_onboarding
 
-A new Flutter project.
+A new Flutter project showcasing scoped_model use. Reference to this great video: https://www.youtube.com/watch?v=kpOT4OTzKLU
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This flutter app uses scoped_modal example for state management.
 
-A few resources to get you started if this is your first Flutter project:
+Screen shots:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Screenshot 1:
+![alt text](https://github.com/wackyapps/flutter_scoped_model_01/blob/master/Screenshot_1557787978.png "Screenshot 1")
+
+Screenshot 2:
+![alt text](https://github.com/wackyapps/flutter_scoped_model_01/blob/master/Screenshot_1557788019.png "Screenshot 2")
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
