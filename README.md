@@ -1,4 +1,4 @@
-# scoped_model_onboarding
+# scoped_model Dog Screen Example
 
 A new Flutter project showcasing scoped_model use. Reference to this great video: https://www.youtube.com/watch?v=kpOT4OTzKLU
 
